@@ -1,24 +1,24 @@
 # digital_pro
-Johnny Coder
+Lekhana Pinninti
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+e-mail id                            lekhanapinninti@gmail.com
+Regd.no                              y19cb044
+Mobile n0.                          8247023658
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2019-2023 (expected)
+:   **bachelor degree in  Computer Science**; Acharya Nagarjuna University (MyTown)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
+2017-2019
+:   ** intermediate **; University of
     HomeTown (HomeTown)
 
     *Minor: Awesomeology*
